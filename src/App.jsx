@@ -12,7 +12,7 @@ class App extends Component {
            height="50%"
            border={{type: 'line'}}
            style={{border: {fg: 'blue'}}}>
-        Hello World!
+        I'll go animated
       </box>
     );
   }
@@ -22,7 +22,7 @@ class App extends Component {
 const screen = blessed.screen({
   autoPadding: true,
   smartCSR: true,
-  title: 'react-blessed hello world'
+  title: 'Poney test'
 });
 
 // Adding a way to quit the program
