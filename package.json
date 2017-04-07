@@ -15,5 +15,8 @@
     "eslint-plugin-react": "^6.10.3",
     "react": "^0.14.0",
     "react-blessed": "^0.1.8"
+  },
+  "dependencies": {
+    "image-to-ascii": "^3.0.7"
   }
 }
