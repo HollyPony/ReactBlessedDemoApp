@@ -1,5 +1,7 @@
 # NPM INSTALL
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/HollyPony/ReactBlessedDemoApp.svg)](https://greenkeeper.io/)
+
 # NPM START
 
 # LEAVE TYPING "Q"
